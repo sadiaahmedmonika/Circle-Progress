@@ -1,0 +1,24 @@
+.circles{
+	text-align:center;
+}
+h2{
+	font-size: 60px;
+    color: #ffaa10;
+    text-shadow: 1px 0px 2px gray;
+    font-family: gabriola;
+}
+.circle {
+    margin-left:20px;
+    display: inline-block;
+    position: relative;
+}
+.circle strong {
+    position: absolute;
+    top: 33%;
+    left: 3%;
+    width: 100%;
+    text-align: center;
+    line-height: 40px;
+    font-size: 30px;
+}
+
